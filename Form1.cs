@@ -48,6 +48,11 @@ namespace BreakoutGame
 
             txtScore.Text = "Score: " + score + " " + message;
         }
+        
+        private void player_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void mainGameTimerEvent(object sender, EventArgs e)
         {
