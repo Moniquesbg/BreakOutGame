@@ -49,16 +49,6 @@ namespace BreakoutGame
             txtScore.Text = "Score: " + score + " " + message;
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void player_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void mainGameTimerEvent(object sender, EventArgs e)
         {
             txtScore.Text = "Score: " + score;
@@ -124,7 +114,6 @@ namespace BreakoutGame
             {
                 gameOver("You lost loser");
             }
-
         }
 
         private void keyisdown(object sender, KeyEventArgs e)
@@ -149,7 +138,6 @@ namespace BreakoutGame
             {
                 goRight = false;
             }
-
         }
     }
 }
