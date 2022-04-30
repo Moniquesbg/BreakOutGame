@@ -1,0 +1,17 @@
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\bin\Debug\net6.0-windows\BreakoutGame.exe
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\bin\Debug\net6.0-windows\BreakoutGame.deps.json
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\bin\Debug\net6.0-windows\BreakoutGame.runtimeconfig.json
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\bin\Debug\net6.0-windows\BreakoutGame.dll
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\bin\Debug\net6.0-windows\BreakoutGame.pdb
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.csproj.AssemblyReference.cache
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.Form1.resources
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.csproj.GenerateResource.cache
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.AssemblyInfoInputs.cache
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.AssemblyInfo.cs
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.csproj.CoreCompileInputs.cache
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.dll
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\refint\BreakoutGame.dll
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.pdb
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\BreakoutGame.genruntimeconfig.cache
+C:\Users\moniq\source\repos\CsharpExamples\DelegateExample\BreakoutGame\BreakoutGame\obj\Debug\net6.0-windows\ref\BreakoutGame.dll
