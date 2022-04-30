@@ -5,7 +5,7 @@ namespace BreakoutGame
 
         bool goLeft;
         bool goRight;
-        bool isGameOve
+        bool isGameOver;
 
         int score;
         int ballx;
